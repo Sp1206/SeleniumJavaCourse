@@ -4,6 +4,6 @@ public interface UKBank {
 	
 	
 	public void educationLoan();
-	
+	ffffff
 
 }
